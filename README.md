@@ -1,0 +1,2 @@
+# ezlife-wordpress
+test
